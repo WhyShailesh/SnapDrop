@@ -1,4 +1,4 @@
-# CodeDrop
+# Snapdrop
 
 A **secure, code-based data sharing platform**. Upload a file, image, or text and get a short unique code. Anyone with the code can access the content. Data is encrypted (AES-256), temporary, and privacy-focused.
 
