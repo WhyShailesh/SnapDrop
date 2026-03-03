@@ -44,7 +44,7 @@ codedrop/
 
 ### Prerequisites
 
-- **Node.js** 18+
+- **Node.js** 18>
 - **MongoDB** (local or Atlas)
 
 ### 1. Backend
